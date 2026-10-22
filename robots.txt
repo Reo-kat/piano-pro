@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://VOTRE-UTILISATEUR.github.io/piano-pro/sitemap.xml
